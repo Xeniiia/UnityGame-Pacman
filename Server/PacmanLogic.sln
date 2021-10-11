@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanLogic", "PacmanLogic\PacmanLogic.csproj", "{206EF05F-5308-41C1-92DB-1EEE30976E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPacman", "DemoPacman\DemoPacman.csproj", "{DE79E7CD-D27B-4C20-B33B-4EE2F1410C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206EF05F-5308-41C1-92DB-1EEE30976E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206EF05F-5308-41C1-92DB-1EEE30976E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206EF05F-5308-41C1-92DB-1EEE30976E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206EF05F-5308-41C1-92DB-1EEE30976E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE79E7CD-D27B-4C20-B33B-4EE2F1410C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE79E7CD-D27B-4C20-B33B-4EE2F1410C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE79E7CD-D27B-4C20-B33B-4EE2F1410C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE79E7CD-D27B-4C20-B33B-4EE2F1410C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E2629F-6510-4581-919F-7268A0ABE005}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<packages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <package id="protobuf-net" version="3.0.101" targetFramework=".NETStandard2.0" allowedVersions="[3.0.101]" />
+</packages>
